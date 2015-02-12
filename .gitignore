@@ -1,0 +1,6 @@
+.buildpath
+.project
+.settings
+
+# Test files
+code-quality/test.txt
