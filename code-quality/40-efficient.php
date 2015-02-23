@@ -1,7 +1,7 @@
 <?php
 
 $fileData = '';
-for ($i = 0; $i < 100; $i++) {
+for ($i = 1; $i <= 100; $i++) {
     $fileData .= sprintf('Current value: %d'.PHP_EOL, $i);
 }
 
