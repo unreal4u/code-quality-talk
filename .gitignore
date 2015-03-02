@@ -1,6 +1,7 @@
 .buildpath
 .project
 .settings
+.DS_Store
 
 # Test files
 code-quality/test.txt
